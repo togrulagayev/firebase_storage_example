@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472607440004",
+    "project_id": "flutter-cloud-3c145",
+    "storage_bucket": "flutter-cloud-3c145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472607440004:android:2ce8edec392802f636d6d1",
+        "android_client_info": {
+          "package_name": "com.omen.flutter_cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxUAgkjtDH1iT8u03cV7y68yRVI5Rz6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
